@@ -1,6 +1,6 @@
 # Туннель из частиц
 
-![tunnel](Туннель из частиц)
+![tunnel](https://raw.githubusercontent.com/Serrjik/tunnel/master/Screenshot_2019-09-08%20tunnel.jpg)
 
 Создано во время интенсива школы [Webcademy.ru](https://webcademy.ru)
 
