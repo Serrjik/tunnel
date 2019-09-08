@@ -1,11 +1,10 @@
-# tunnel
-Туннель из частиц
+# Туннель из частиц
 
-![tunnel]()
+![tunnel](Туннель из частиц)
 
 Создано во время интенсива школы [Webcademy.ru](https://webcademy.ru)
 
-Ссылка на заставку []()
+Ссылка на заставку [https://serrjik.github.io/tunnel/index.html](https://serrjik.github.io/tunnel/index.html)
 
 ### Примененные технологии в проекте:
 
